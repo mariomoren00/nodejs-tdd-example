@@ -1,0 +1,28 @@
+{
+  "name": "tdd-nodejs",
+  "version": "1.0.0",
+  "description": "Using nodejs with mochajs for example tdd",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariomoren00/tdd-nodejs.git"
+  },
+  "author": "Mario Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariomoren00/tdd-nodejs/issues"
+  },
+  "homepage": "https://github.com/mariomoren00/tdd-nodejs#readme",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "express": "^4.15.3",
+    "mocha": "^3.4.2",
+    "request": "^2.81.0"
+  }
+}
