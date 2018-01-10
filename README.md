@@ -1,2 +1,3 @@
-# tdd-nodejs
-Using nodejs with mochajs and babeljs for example tdd
+# Nodejs using tdd
+
+Using nodejs with mocha and babel for example tdd
